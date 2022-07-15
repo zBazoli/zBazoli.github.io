@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+
+#nome {
+    background-color: rgb(38, 110, 244);
+    font-family: sans-serif;
+}       
+
+#sobre {
+    font-family: sans-serif;
+}
