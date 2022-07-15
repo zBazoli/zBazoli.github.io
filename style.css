@@ -1,12 +1,42 @@
 body {
-    background-color: white;
+    background-color: rgb(8, 37, 80);
 }
 
 #nome {
     background-color: rgb(38, 110, 244);
     font-family: sans-serif;
+    position:absolute;
+    left: 23%;
+    top: 0%;
 }       
 
 #sobre {
     font-family: sans-serif;
+    text-align: center;
+    position:absolute;
+    top: 60%;
 }
+
+#foto {
+    position:absolute;
+    top: 15%;
+    left: 20%;
+}
+
+#skills{
+    position:absolute;
+    top: 100%;
+}
+
+#blog {
+    position:absolute;
+    top: 150%;
+}
+
+#indice {
+    position:absolute;
+    top: 200%;
+}
+
+
+
