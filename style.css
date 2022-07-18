@@ -4,12 +4,12 @@ body {
     overflow-x: hidden;
     margin: 1; 
     padding: 0; 
-    height: 100vh;
-    width: 100vw;   
+    height: 100%;
+    width: 100%;   
     background-image: url('./img/fundoPortfolio.jpg');
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;  
+    
+    background-size: 115%;  
 }
 
 #fundoBranco{
