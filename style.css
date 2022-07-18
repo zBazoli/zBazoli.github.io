@@ -8,8 +8,12 @@ body {
     width: 100%;   
     background-image: url('./img/fundoPortfolio.jpg');
     background-repeat: no-repeat;
-    
     background-size: 115%;  
+}
+
+a{
+    color:black; /* cor dos links */
+    text-decoration: none;  /* sem sublinhado */
 }
 
 #fundoBranco{
